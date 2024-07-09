@@ -1,9 +1,8 @@
 
-
-const Hero = () => {
+export default function Hero() {
   return (
-    <div>Hero</div>
+    <div>
+      Hero
+    </div>
   )
 }
-
-export default Hero;
